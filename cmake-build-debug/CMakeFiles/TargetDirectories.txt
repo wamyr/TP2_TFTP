@@ -1,0 +1,3 @@
+/Users/sammygros/Documents/CLion_projetcs/TP2_TFTP/cmake-build-debug/CMakeFiles/TP2_TFTP.dir
+/Users/sammygros/Documents/CLion_projetcs/TP2_TFTP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sammygros/Documents/CLion_projetcs/TP2_TFTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
